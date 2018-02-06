@@ -1,0 +1,27 @@
+#topheader{
+    background-color: deepskyblue;
+    text-align: center;
+    border-radius: 2px;
+    height: 125px;
+}
+.headDesign{
+    transform: translateY(15px);
+}
+.common{
+    position: relative;
+    align-content: center;
+    background-color: #5a8b85;
+    height: 450px;
+    margin: 2px;
+    text-align: center;
+
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+
+}
+.row{
+    position: relative;
+    margin-top: 25px;
+}
